@@ -1,0 +1,784 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+
+.navig
+{
+    font-family: Muli;
+    font-style: normal;
+    font-weight: 300;
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    margin-right: 105px;
+    
+}
+.navig1
+{
+    position: absolute;
+width: 292px;
+height: 18px;
+left: 1043px;
+top: 9px;
+}
+.img
+{
+    box-shadow: 0 0 6px whitesmoke;
+}
+.request
+{
+    text-align: center;
+    background-size: cover;
+height: 280px;
+background-color: rgba(233, 239, 251, 0.95);;
+}
+.req{
+    font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 48px;
+color: #2B61DA;
+top: 60px;
+position: relative;
+}
+.reqbtn
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.12em;
+
+color: #FFFFFF;
+top: 78px;
+position: relative;
+
+}
+.btntxt
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.12em;
+}
+.trail{
+
+    background-size: cover;
+    background-color: rgba(233, 239, 251, 0.95) ;
+    height: 254px;
+    text-align: center;
+}
+.trailtxt
+{
+font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 23px;
+position: relative;
+top: 70px;
+letter-spacing: 0.1em;
+
+color: #504F59;
+
+}
+
+.trailbtn
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.12em;
+position: relative;
+top: 95px;
+
+color: #FFFFFF;
+
+}
+.trailsmtxt
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 18px;
+
+position: relative;
+top: 100px;
+color: #504F59;
+
+}
+.footer
+{
+background-color: #2B61DA;
+height: 500px;
+
+}
+.footer1
+{
+    position: relative;
+    text-align: center;
+    top: 120px;
+}
+
+.zero
+{
+    font-family: Cera Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 30px;
+     color: #FFFFFF;
+    
+}
+.text
+{
+
+    font-family: Muli;
+    font-style: normal;
+  
+    font-size: 14px;
+    line-height: 23px;
+    color: #FFFFFF;
+    
+
+}
+
+.icon
+{
+    font-size: 20px;
+    color: white;
+    margin-right: 20px;
+}
+
+.hori
+{
+    top:150px;
+    
+    background-color: white;
+    position: relative;
+}
+.copy
+{
+   
+font-family: Cera Pro;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+top: 155px;
+position: relative;
+
+letter-spacing: 0.07em;
+
+color: #FFFFFF;
+
+}
+
+.key{
+    background-size: cover;
+    height: 822px;
+    background-color: #2B61DA;
+}
+.key1a
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 800;
+top: 85px;
+position: relative;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.hori1
+{
+    background-color: white;
+    width: 44px;
+    height: 4px;
+    border-radius: 2px;
+}
+
+.key1
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+top: 100px;
+position: relative;
+line-height: 36px;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.key2{
+
+
+
+background-size: cover;
+height: 400px;
+
+top:150px ;
+position: relative;
+
+
+}
+.key2a
+{
+    background-color: white;
+    width: 280px;
+height: 374px;
+top: 30px;
+position: relative;
+box-shadow: 0 3px 6px black;
+border-radius: 5%;
+}
+.pic1
+{
+ 
+width: 115px;
+height: 114px;
+border-radius: 50%;
+top:40px;
+position: relative;
+
+background: #EAF0FB;
+}
+.pichead
+{
+    top: 50px;
+    position: relative;
+    font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 23px;
+
+
+text-align: center;
+
+color: #255ED6;
+
+}
+.pic2
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+top: 66px;
+position: relative;
+color: #000000;
+
+}
+.pic3
+{
+    
+font-family: Muli;
+font-style: italic;
+font-weight: 200;
+font-size: 16px;
+line-height: 20px;
+top: 100px;
+position: relative;
+
+text-align: center;
+
+color: rgba(37, 94, 214, 0.61);
+
+}
+
+.users
+{
+ background-size: cover;
+height: 900px;
+background-color:#EAF0FB;
+}
+
+.users1
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+top: 70px;
+position: relative;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #255ED6;
+
+
+}
+
+.users2
+{
+    top: 150px;
+    position: relative;
+}
+.partners
+{
+   
+    width: 550px;
+    height: 450px;
+    background-color: white;
+}
+.partner
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 24px;
+line-height: 30px;
+top: 40px;
+left: 30px;
+position: relative;
+color: #2B61DA;
+
+}
+.partner1{
+    top: 60px;
+    position: relative;
+}
+.partners1
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+letter-spacing: 0.03em;
+
+color: #000000;
+}
+
+.demo
+{
+    background-size: cover;
+    height: 400px;
+    color: white;
+    padding: 10px;
+}
+.demo1
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+
+color: #255ED6;
+}
+.video{
+   top: 30px;
+   position: relative;
+}
+.demovideo
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.video1
+{
+    height: 258px;
+    width: 100%;
+    background: #D7E4FB;
+}
+.initial
+{
+    height: 650px;
+    background-size: cover;
+    padding-left: 40px;
+}
+.imgsrc
+{
+   
+    width: 100%;
+    height: 550px;
+}
+.initial-1
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 60px;
+height: 100px;
+width: 600px;
+top: 128px;
+position: relative;
+color: #14151B;
+}
+.initial-2
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+width: 500px;
+top: 150px;
+position: relative;
+
+letter-spacing: 0.12em;
+
+color: rgba(80, 79, 89, 0.8);
+
+}
+.initial-3
+{
+  
+top: 190px;
+position: relative;
+font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.12em;
+
+color: #255ED6;
+
+}
+.initial-3a
+{
+
+color: #2B61DA;
+
+}
+.initial-4
+{
+  top: -50px;
+  position: relative;
+}
+.personal
+{
+    height: 550px;
+    background-size: cover;
+    background-color: white;
+}
+.personal1
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+top: 105px;
+position: relative;
+width: 700px;
+line-height: 54px;
+letter-spacing: 0.05em;
+color: #255ED6;
+
+}
+.imgsrc1
+{
+    width: 567px;
+    height: 398px;
+}
+.personal2
+{
+    
+font-family: Muli;
+font-style: normal;
+top: 130px;
+position: relative;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+
+letter-spacing: 0.03em;
+
+color: rgba(80, 79, 89, 0.8);
+}
+.personal3-1
+{
+    top: 180px;
+position: relative;
+}
+.personal3
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #000000;
+
+}
+.fant
+{
+    color: #255ED6;
+    
+
+}
+
+.test
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+top: 70px;
+width: 500px;
+position: relative;
+line-height: 60px;
+letter-spacing: 0.03em;
+
+color: #255ED6;
+
+}
+.testimony
+{
+    height: 500px;
+    background-size: cover;
+}
+.test1
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: 300;
+top: 100px;
+width: 500px;
+position: relative;
+font-size: 16px;
+line-height: 20px;
+
+color: #504F59;
+
+}
+.test2
+{
+    font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+top: 130px;
+position: relative;
+line-height: 18px;
+letter-spacing: 0.12em;
+
+color: #255ED6;
+}
+.test3{
+    box-shadow: 0 3px 6px whitesmoke;
+    width: 450px;
+    height: 220px;
+}
+.test3a
+{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: 300;
+top: 60px;
+position: relative;
+font-size: 16px;
+line-height: 20px;
+
+color: #504F59;
+
+}
+.font
+{
+    font-size: 70px;
+    color: #255ED6;
+    top: -20px;
+    position: relative;
+}
+.test3a1{
+    
+font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+top: 20px;
+position: relative;
+
+color: #14151B;
+
+}
+.circle
+{
+    width: 112px;
+height: 112px;
+top: 50px;
+position: relative;
+left: 30px;
+background: #EAF0FB;
+border-radius: 50%;
+}
+
+
+
+
+
+@media screen and (max-width:1200px)
+{
+    .footer1{
+        top: 36px;
+        bottom: 30px;
+
+        position: relative;
+        text-align: start;
+    }
+    .description
+    {
+        top: 50px;
+        position: relative;
+    }
+    .footer{
+        height: 500px;
+        background-size: initial;
+    }
+    .key{
+        height: 1300px;
+    }
+    
+    .key2a
+    {
+        background-color: white;
+        width: 222px;
+    height: 374px;
+    top: 30px;
+    position: relative;
+    box-shadow: 0 3px 6px black;
+    border-radius: 5%;
+    }
+    .users
+{
+ background-size: cover;
+height: 1500px;
+background-color:#EAF0FB;
+}
+.demo
+{
+    background-size: cover;
+    height: 950px;
+    color: white;
+    padding: 10px;
+}
+.initial
+{
+    height: 1100px;
+    background-size: cover;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.initial-1{
+   top: 10px;
+   position: relative;
+    order: 1;
+}
+.initial-4{
+    order:2;
+    top: -80px;
+    position: relative;
+}
+.initial-2
+{
+order: 3;
+top: 650px;
+position: relative;
+}
+.initial-3
+{
+    top: 700px;
+    bottom: 30px;
+    text-align: center;
+    position: relative;
+    order: 4;
+}
+.initial-3a
+{
+    top: 50px;
+    text-align: center;
+    position: relative;
+}
+
+.partners
+{
+   
+    width: fit-content;
+    height: 450px;
+    background-color: white;
+}
+.personal
+{
+height: 980px;
+display: flex;
+flex-direction: column;
+}
+.personal1
+{
+    width: fit-content;
+    order: 1;
+    top: 10px;
+    position: relative;
+}
+.personal2
+{
+    top: 500px;
+    position: relative;
+    order: 3;
+
+}
+.personal3-1{
+    top: 550px;
+    position: relative;
+    order: 4;
+}
+.personal4
+{
+    top: -200px;
+    position: relative;
+  
+    order: 2;
+
+}
+.imgsrc1{
+    width:450px;
+}
+.testimony{
+    height: 900px;
+}
+.test3{
+    top: 200px;
+    position: relative;
+}
+}
